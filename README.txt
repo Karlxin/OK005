@@ -11,7 +11,7 @@
 2.2.Genome editing
 
 3.Energy
-3.1.Sonar
+3.1.Solar
 3.2.nuclear
 3.3.lunar dust
 
